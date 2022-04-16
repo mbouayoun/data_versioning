@@ -1,0 +1,8 @@
+[core]
+    remote = mydrive
+['remote "muremote"']
+    url = d:/tmp/dvc_storage
+['remote "myremote"']
+    url = d:/Mon drive/dvc_data
+['remote "mydrive"']
+    url = gdrive://17NRn0NeXw_nl-pZycE-ICPkPwannBuzJ
